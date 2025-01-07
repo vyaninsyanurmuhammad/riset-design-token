@@ -1,1 +1,1 @@
-# riset-design-token
+# Riset Design Token
